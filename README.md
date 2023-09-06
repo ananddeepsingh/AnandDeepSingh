@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananddeepsingh" alt="ananddeepsingh" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 My latest learning is **Lerna and React Native along with Sanity.io**
 
-- 💬 Ask me about **MERN, JavaScript, React,**
+- 💬 Ask me about **MERN, JavaScript, React, React Native, Sanity.io, Lerna**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
